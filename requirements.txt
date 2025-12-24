@@ -4,5 +4,4 @@ pillow
 numpy
 joblib
 scikit-image
-
 opencv-contrib-python-headless
